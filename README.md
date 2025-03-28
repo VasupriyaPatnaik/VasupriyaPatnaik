@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Vasupriya Patnaik!  
 
-### 👀 Interests:  
+### 👀 I'm Interested In:  
 - **Artificial Intelligence & Machine Learning** 🧠  
 - **Natural Language Processing (NLP) & Chatbot Development** 🤖  
 - **Computer Vision & Deep Learning** 🖼️  
@@ -8,14 +8,14 @@
 - **Data Structures & Algorithms (DSA)** 📊  
 - **Full-Stack Development (MERN, Flask, Supabase)** 🌐  
 
-### 🌱 Currently Learning:  
+### 🌱 T'm Currently Learning:  
 - Advanced **Neural Networks & Deep Learning**  
 - **Support Vector Machines (SVM) for NLP** 📖  
 - **Fine-tuning LLMs & Agentic RAG** 🔍  
 - **Competitive Programming & DSA** 📈  
 - **Regression Models for Weather Forecasting** ⛅  
 
-### 💞️ Looking to Collaborate On:  
+### 💞️ I'm Looking to Collaborate On:  
 - **AI & ML projects** (NLP, Computer Vision, Generative AI, etc.)  
 - **Open-source contributions** in AI & Cloud Computing  
 - **Competitive programming, hackathons & Kaggle challenges** 🚀  
