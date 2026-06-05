@@ -1,13 +1,25 @@
 <div align="center">
 
-# Hi, I'm Vasupriya Patnaik 👋
+# Hi 👋, I'm Vasupriya Patnaik
 
-### AI & ML Enthusiast • Software Developer • Problem Solver
+### AI Engineer • Software Developer • Problem Solver
 
-Building AI-powered applications, scalable backend systems, and real-world solutions that create measurable impact.
+Building intelligent systems, scalable backend solutions, and AI-powered applications that create real-world impact.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vasupriya-patnaik)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github)](https://github.com/VasupriyaPatnaik)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=VasupriyaPatnaik&label=Profile%20Views&color=8A2BE2&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Open%20to-Software%20Engineering%20Roles-6A5ACD?style=for-the-badge" alt="Open To Work"/>
+</p>
+
+<p>
+  <a href="https://www.linkedin.com/in/vasupriya-patnaik">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-8A2BE2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+
+  <a href="https://github.com/VasupriyaPatnaik">
+    <img src="https://img.shields.io/badge/GitHub-Portfolio-00BFFF?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
@@ -21,21 +33,21 @@ Building AI-powered applications, scalable backend systems, and real-world solut
 
 📈 CGPA: **9.22**
 
-💼 Former **Software Engineer Intern**
+💼 Former Software Engineer Intern at Sweet Design Hub Pvt. Ltd.
 
-🌱 Exploring:
+🌱 Currently Exploring:
 
-- Generative AI
-- Retrieval-Augmented Generation (RAG)
-- LLM Applications
-- Backend Engineering
-- Cloud Technologies
+* Generative AI & Agentic AI
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models (LLMs)
+* Backend Engineering & APIs
+* Cloud Technologies & Scalable Systems
 
-⚡ I enjoy transforming complex problems into simple, scalable software solutions.
+⚡ Passionate about transforming complex ideas into intelligent, production-ready solutions.
 
 ---
 
-## 🏆 Highlights
+## 🏆 Achievements
 
 🥈 **1st Runner-Up** among 100+ teams at Idea-to-Impact Sprint, IIM Visakhapatnam (2026)
 
@@ -51,13 +63,13 @@ Building AI-powered applications, scalable backend systems, and real-world solut
 
 ✔ Built a Retrieval-Augmented Generation (RAG) system for legal document review
 
-✔ Developed RESTful APIs using FastAPI
+✔ Developed REST APIs using FastAPI for document processing workflows
 
-✔ Implemented semantic document retrieval using FAISS and Sentence Transformers
+✔ Implemented semantic search using FAISS and Sentence Transformers
 
-✔ Integrated LLM workflows for intelligent document analysis
+✔ Integrated LLM-powered analysis pipelines using Groq API
 
-✔ Improved backend reliability and response efficiency
+✔ Improved backend performance, reliability, and response efficiency
 
 ---
 
@@ -65,103 +77,109 @@ Building AI-powered applications, scalable backend systems, and real-world solut
 
 ### ⚖️ AI Legal Review Assistant
 
-A RAG-powered legal document analysis system capable of semantic search, clause conflict detection, and intelligent review workflows.
+RAG-powered legal document analysis platform enabling semantic search, clause conflict detection, and intelligent review workflows.
 
-**Tech:** FastAPI • FAISS • Sentence Transformers • Groq API
+**Tech Stack:** FastAPI • FAISS • Sentence Transformers • Groq API
 
 ---
 
 ### 🌾 AgroBot
 
-AI-powered agricultural assistant that detects plant diseases from leaf images and provides actionable guidance.
+AI-powered agricultural assistant that detects plant diseases from leaf images and provides actionable guidance to farmers.
 
-**Tech:** CNN • TensorFlow • Flask • OpenCV
+**Tech Stack:** TensorFlow • CNN • Flask • OpenCV
 
 ---
 
 ### 📄 OrderIQ
 
-OCR-driven document processing platform that converts unstructured order documents into structured business data.
+OCR-based document processing system that transforms unstructured order documents into structured business data.
 
-**Tech:** Python • OCR • NLP • Automation
+**Tech Stack:** Python • OCR • NLP • Automation
 
 ---
 
 ### 🌦️ Forecastera
 
-Machine Learning weather prediction platform supporting multiple regression models with visual analytics.
+Machine Learning weather prediction platform supporting multiple regression models and visual analytics.
 
-**Tech:** Scikit-Learn • Flask • Data Visualization
+**Tech Stack:** Scikit-Learn • Flask • Data Visualization
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
+### Programming Languages
 
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=flat-square\&logo=c\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square\&logo=javascript\&logoColor=black)
 
 ### AI / Machine Learning
 
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikitlearn)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square\&logo=tensorflow\&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square\&logo=scikitlearn\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
 
-### Backend
+### Backend & Databases
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square\&logo=flask\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square\&logo=mongodb\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square\&logo=mysql\&logoColor=white)
 
-### Databases
+### Tools & Platforms
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql)
-
-### Tools
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square\&logo=git\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square\&logo=docker\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square\&logo=linux\&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square\&logo=postman\&logoColor=white)
 
 ---
 
 ## 📊 GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=VasupriyaPatnaik&show_icons=true&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=VasupriyaPatnaik&show_icons=true"/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=VasupriyaPatnaik&theme=tokyonight" />
+</p>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasupriyaPatnaik&layout=compact"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VasupriyaPatnaik&layout=compact&theme=tokyonight" />
+</p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VasupriyaPatnaik"/>
+## 🏆 GitHub Trophies
 
-</div>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=VasupriyaPatnaik&theme=algolia&no-frame=true" />
+</p>
 
 ---
 
 ## 🎯 2026 Goals
 
-- Contribute to impactful open-source projects
-- Build production-ready AI applications
-- Master System Design & Backend Engineering
-- Deepen expertise in Generative AI and Agentic Systems
-- Secure a Software Engineering role at a top technology company
+* Contribute to impactful open-source projects
+* Build production-ready AI applications
+* Master System Design & Backend Engineering
+* Deepen expertise in Generative AI and Agentic AI Systems
+* Secure a Software Engineering role at a leading technology company
 
 ---
 
 ## 📫 Let's Connect
 
-💼 LinkedIn: https://www.linkedin.com/in/vasupriya-patnaik
+💼 LinkedIn: [www.linkedin.com/in/vasupriya-patnaik](http://www.linkedin.com/in/vasupriya-patnaik)
 
-🐦 X/Twitter: https://twitter.com/Vasupriya_20
+🐦 X (Twitter): @Vasupriya_20
 
-⭐ If you like my work, consider following my repositories and connecting with me.
+⭐ If you enjoy my work, consider starring my repositories and connecting with me.
 
 ---
 
-> "Code with purpose. Build with impact. Keep learning."
+> **"Code with purpose. Build with impact. Keep learning."**
